@@ -68,7 +68,7 @@
 
                     else
                     {
-                        Console.WriteLine("It doesn't fit to the sorting line and needs to be wider");
+                        Console.WriteLine("Does not fit.");
                     }
 
                     lineWidth = sortingLine.LineWidth;
