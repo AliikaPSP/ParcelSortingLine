@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelSortingLine", "ParcelSortingLine\ParcelSortingLine.csproj", "{5496AE0A-F0A7-4340-8A75-0C35C1111DFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParcelSortingLine", "ParcelSortingLine\ParcelSortingLine.csproj", "{5496AE0A-F0A7-4340-8A75-0C35C1111DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelSortingTest", "ParcelSortingTest\ParcelSortingTest.csproj", "{BEB7A61F-009A-4F44-BB4C-9A46473B10E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5496AE0A-F0A7-4340-8A75-0C35C1111DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5496AE0A-F0A7-4340-8A75-0C35C1111DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5496AE0A-F0A7-4340-8A75-0C35C1111DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB7A61F-009A-4F44-BB4C-9A46473B10E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB7A61F-009A-4F44-BB4C-9A46473B10E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB7A61F-009A-4F44-BB4C-9A46473B10E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB7A61F-009A-4F44-BB4C-9A46473B10E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
